@@ -15,28 +15,89 @@
         </div>
         <div class="row">
             <!-- Single Course -->
-            <?php foreach($data as $comite){ ?>
             <div class="col-lg-3 col-md-6 col-12">
                 <!-- Single Course -->
 				<div class="single-course">
                     <!-- Course Head -->
                     <div class="course-head">
-                        <img src="<?php echo IMAGES.'comite/'.$comite['foto'] ?>" alt="#">
+                        <img src="<?php echo IMAGES.'ponentes/Abigail.png' ?>" alt="#" style="height: 280px;">
                     </div>
                     <!-- Course Body -->
                     <div class="course-body">
                         <div class="name-price">
                             <div class="teacher-info">
-                                <img src="<?php echo IMAGES.'paises/'.$comite['fotoPais'] ?>" alt="#">
-                                <h4 class="title"><?php echo $comite['nacionalidad'] ?></h4>
+                                <img src="<?php echo IMAGES.'paises/peru.png' ?>" alt="#">
+                                <h4 class="title">Peruana</h4>
                             </div>
                         </div>
-                        <h4 class="c-title"><a href="#"><?php echo $comite['nombre'] ?></a></h4>
-                        <p><?php echo $comite['comision'] ?></p>
+                        <h4 class="c-title"><a href="#">Presidenta</a></h4>
+                        <p>Est. Abigail Araceli Menéndez Silvestre</p>
                     </div>
                 </div>
             </div>
-            <?php } ?>
+
+            <div class="col-lg-3 col-md-6 col-12">
+                <!-- Single Course -->
+				<div class="single-course">
+                    <!-- Course Head -->
+                    <div class="course-head">
+                        <img src="<?php echo IMAGES.'ponentes/Jhoswel.png' ?>" alt="#" style="height: 280px;">
+                    </div>
+                    <!-- Course Body -->
+                    <div class="course-body">
+                        <div class="name-price">
+                            <div class="teacher-info">
+                                <img src="<?php echo IMAGES.'paises/peru.png' ?>" alt="#">
+                                <h4 class="title">Peruana</h4>
+                            </div>
+                        </div>
+                        <h4 class="c-title"><a href="#">Vicepresidente</a></h4>
+                        <p>Est. Jhoswel Abel Quispe Vilca</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 col-12">
+                <!-- Single Course -->
+				<div class="single-course">
+                    <!-- Course Head -->
+                    <div class="course-head">
+                        <img src="<?php echo IMAGES.'ponentes/Karla.png' ?>" alt="#" style="height: 280px;">
+                    </div>
+                    <!-- Course Body -->
+                    <div class="course-body">
+                        <div class="name-price">
+                            <div class="teacher-info">
+                                <img src="<?php echo IMAGES.'paises/peru.png' ?>" alt="#">
+                                <h4 class="title">Peruana</h4>
+                            </div>
+                        </div>
+                        <h4 class="c-title"><a href="#">Secretaria</a></h4>
+                        <p>Est. Karla Marife Huallpa Lima </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 col-12">
+                <!-- Single Course -->
+				<div class="single-course">
+                    <!-- Course Head -->
+                    <div class="course-head">
+                        <img src="<?php echo IMAGES.'ponentes/Yessica.png' ?>" alt="#" style="height: 280px;">
+                    </div>
+                    <!-- Course Body -->
+                    <div class="course-body">
+                        <div class="name-price">
+                            <div class="teacher-info">
+                                <img src="<?php echo IMAGES.'paises/peru.png' ?>" alt="#">
+                                <h4 class="title">Peruana</h4>
+                            </div>
+                        </div>
+                        <h4 class="c-title"><a href="#">Vicesecretaria</a></h4>
+                        <p>Est. Yessica Carla Rosa Mamani </p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>

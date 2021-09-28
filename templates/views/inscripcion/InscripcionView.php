@@ -21,8 +21,8 @@
                     <a href="https://www.facebook.com/UNJBG.ocim" target="_blank" class="btn white mt-1 "><i class="fa fa-facebook mr-2"></i> FACEBOOK</a>
                     <a href="https://www.instagram.com/unibasadre/" target="_blank" class="btn white mt-1"><i class="fab fa-instagram mr-2"></i> INSTAGRAM</a>
                     <a href="http://www.unjbg.edu.pe/" target="_blank" class="btn white mt-1"><i class="fas fa-globe mr-2"></i> WEB SITE</a> -->
-                    <a href="https://forms.gle/5Gy9D58E864spBgXA" target="_blank" class="btn white mt-1 primary"><i class="fas fa-arrow-circle-right"></i> INSCRIPCIONES</a>
-                    <a href="https://www.facebook.com/ESMA-Escuela-Profesional-de-Matem%C3%A1tica-695937807528180" target="_blank" class="btn white mt-1 primary"><i class="fab fa-facebook"></i> TRANSMISIÓN POR FACEBOOK</a>
+                    <a href="https://forms.gle/vjuuWNH3eYigZyBQA" target="_blank" class="btn white mt-1 primary"><i class="fas fa-arrow-circle-right"></i> INSCRIPCIONES</a>
+                    <a href="http://www.facebook.com/I.SOMAGE.UNJBG" target="_blank" class="btn white mt-1 primary"><i class="fab fa-facebook"></i> TRANSMISIÓN POR FACEBOOK</a>
                 </div>
                 </div>
             </div>

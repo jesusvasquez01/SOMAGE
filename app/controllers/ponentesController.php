@@ -15,7 +15,7 @@
                     "nacionalidad" => "Española"
                 ],
                 [
-                    "nombre" => "Dr. Flabio Gutiérres",
+                    "nombre" => "Dr. Flabio Gutiérrez Segura",
                     "comision" => "Catedrático del Departamento de Matemática y Estadística en la  Universidad Nacional Trujillo (PERÚ) ",
                     "foto" => "flavio.jpg",
                     "fotoPais" => "peru.png",
@@ -29,47 +29,40 @@
                     "nacionalidad" => "Peruana"
                 ],
                 [
-                    "nombre" => "Dr. Segundo Alvarado",
-                    "comision" => "Catedrático del Departamento de Matemática y Estadística en la  Universidad Nacional Jorge Basadre Grohmann (PERÚ) ",
-                    "foto" => "UploadFotoPath.jpg",
+                    "nombre" => "Dr. Segundo Alvarado Contreras",
+                    "comision" => "Director del comité de administración de la Zona Franca de Tacna  - Catedrático del Departamento de Matemática y Estadística en la  Universidad Nacional Jorge Basadre Grohmann (PERÚ)",
+                    "foto" => "ponente04.png",
                     "fotoPais" => "peru.png",
                     "nacionalidad" => "Peruana"
                 ],
                 [
                     "nombre" => "Mgr. Edgard Pilco Apaza",
-                    "comision" => "Universidad de Concepción, Chile ",
-                    "foto" => "Fabian_Flores.png",
-                    "fotoPais" => "chile.png",
-                    "nacionalidad" => "Chileno"
-                ],
-                [
-                    "nombre" => "Gerente General de ZOFRA-TACNA",
-                    "comision" => "Universidad de Tayacaja, Perú ",
-                    "foto" => "Ronal_Cruz.png",
+                    "comision" => "Gerente de Auditoría Interna de la Caja Municipal de Ahorro y Crédito de Tacna S.A. ",
+                    "foto" => "edgard.png",
                     "fotoPais" => "peru.png",
                     "nacionalidad" => "Peruana"
                 ],
                 [
-                    "nombre" => "Presidente del Directorio de EPS TACNA",
-                    "comision" => "University of Magdeburg, Germany ",
-                    "foto" => "Thomas_Richter.png",
-                    "fotoPais" => "alemania.png",
-                    "nacionalidad" => "Aleman"
-                ],
-                [
-                    "nombre" => "Est. ESMA",
-                    "comision" => "Universidad Nacional Jorge Basadre Grohmann (PERÚ) ",
-                    "foto" => "Julio_Lopez.png",
+                    "nombre" => "Dra. Ximena Gómez Valente",
+                    "comision" => "Gerente General en Zona Franca de Tacna",
+                    "foto" => "ponente05.jpg",
                     "fotoPais" => "peru.png",
                     "nacionalidad" => "Peruana"
                 ],
                 [
-                    "nombre" => "Est. ESCO",
-                    "comision" => "Universidad Nacional Jorge Basadre Grohmann (PERÚ) ",
-                    "foto" => "Edith_Seier.png",
+                    "nombre" => "Dr. Jesús Olivera Cáceres",
+                    "comision" => "Presidente del Directorio de EPS TACNA - Decano de la Facultad de Ciencias Jurídicas y Empresariales de la UNJBG.",
+                    "foto" => "ponente02.jpg",
                     "fotoPais" => "peru.png",
                     "nacionalidad" => "Peruana"
                 ],
+                [
+                    "nombre" => "MGR. ALBERTO FRANCO VILDOSO",
+                    "comision" => "Analista de control de Calidad de la EPS Tacna",
+                    "foto" => "ponente03.png",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ]
             ];
 
             View::render('index', $data);

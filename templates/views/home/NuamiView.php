@@ -7,7 +7,7 @@
               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           </div>
           <div class="modal-body">
-          <img src="<?php echo IMAGES.'BANNER.jpg'?>" class="img-fluid img-thumbnail">
+          <img src="<?php echo IMAGES.'banner01.jpeg'?>" class="img-fluid img-thumbnail">
           </div>
           
       </div>
@@ -22,7 +22,13 @@
 
   <div class="carousel-item active">
       <section class="register-today overlay section home-slider"
-            style="background-image:url('<?php echo IMAGES."fondo.jpg" ?>');min-height:90vh;padding-top:50px !important; padding-bottom:20px!important;">
+            style="background-image:url('<?php echo IMAGES."portada.png" ?>');min-height:90vh;padding-top:50px !important; padding-bottom:20px!important;">
+      </section>
+    </div>
+
+    <div class="carousel-item">
+      <section class="register-today overlay section home-slider"
+            style="background-image:url('<?php echo IMAGES."imagen30.jpg" ?>');min-height:90vh;padding-top:50px !important; padding-bottom:20px!important;">
           
             <div class="container">
 						<div class="row">
@@ -46,12 +52,6 @@
 					</div>
       </section>
     </div>
-
-    <div class="carousel-item">
-      <section class="register-today overlay section home-slider"
-            style="background-image:url('<?php echo IMAGES."imagen30.jpg" ?>');min-height:90vh;padding-top:50px !important; padding-bottom:20px!important;">
-      </section>
-    </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -67,6 +67,21 @@
 
 <section class="courses section" style="padding-top: 35px !important;background-color: #DEDEDE;">
   <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-12">
+                <div class="text-content">
+                <div class="button">
+                    <!-- <a href="#" class="btn white mt-1"><i class="fa fa-phone fa-lg mr-2"></i> Teléfono: 969 726 090</a>
+                    <a href="https://www.facebook.com/UNJBG.ocim" target="_blank" class="btn white mt-1 "><i class="fa fa-facebook mr-2"></i> FACEBOOK</a>
+                    <a href="https://www.instagram.com/unibasadre/" target="_blank" class="btn white mt-1"><i class="fab fa-instagram mr-2"></i> INSTAGRAM</a>
+                    <a href="http://www.unjbg.edu.pe/" target="_blank" class="btn white mt-1"><i class="fas fa-globe mr-2"></i> WEB SITE</a> -->
+                    <a href="https://forms.gle/vjuuWNH3eYigZyBQA" target="_blank" class="btn white mt-1 primary"><i class="fas fa-arrow-circle-right"></i> INSCRIPCIONES</a>
+                    <a href="http://www.facebook.com/I.SOMAGE.UNJBG" target="_blank" class="btn white mt-1 primary"><i class="fab fa-facebook"></i> TRANSMISIÓN POR FACEBOOK</a>
+                </div>
+                </div>
+            </div>
+        </div>
+        <br><hr>
       <div class="row">
           <div class="col-lg-12 col-12">
               <div class="section-title bg">

@@ -8,9 +8,10 @@
           <div class="single-widget about p-1">
             <h2>Información</h2>  
             <ul class="list" style="position: relative;">
-              <li><i class="fa fa-phone fa-lg"></i> Teléfono: </li>
+              <li><i class="fa fa-phone fa-lg"></i> Teléfono: 943 006 172</li>
+              <li><i class="far fa-envelope fa-lg"></i> Correo: somage.unjbg@gmail.com</li>
               <li>
-              <a href="https://forms.gle/5Gy9D58E864spBgXA" target="_blank" class="btn white mt-1 primary"><i class="fas fa-arrow-circle-right"></i> INSCRIPCIONES</a>
+              <a href="https://forms.gle/vjuuWNH3eYigZyBQA" target="_blank" class="btn white mt-1 primary"><i class="fas fa-arrow-circle-right"></i> INSCRIPCIONES</a>
               </li>
               <!-- <li class="active"><a href="https://www.facebook.com/UNJBG.ocim" target="_blank" title="Facebook de UNJBG"><i class="fa fa-facebook"></i> @UNJBG.ocim</a></li>
               <li><a href="https://www.instagram.com/unibasadre/" target="_blank" title="UNJBG"><i class="fab fa-instagram"></i> unibasadre</a></li>
