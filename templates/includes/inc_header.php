@@ -4,11 +4,11 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title><?php echo isset($d->title) ? $d->title : 'Académicas Sin Fronteras'  ?></title>
+  <title><?php echo isset($d->title) ? $d->title : 'I SOMAGE'  ?></title>
 
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="keywords" content="Educación, economía, salud, medio ambiente, ciencia y tecnología, social, político , psicológico,  university, universidad, SOCIEDAD LÍQUIDA: DESAFÍOS Y ESTRATEGIAS PARA LOS NUEVOS TIEMPOS, VIII Encuentro Internacional de Académicas Sin Fronteras, Universidad Nacional Jorge Basadre Grohmann, Universidad Santo Tomás – Chile, Universidad Privada de Tacna - Perú, Universidad Mayor de San Simón - Bolivia">
-  <meta name="description" content="VIII Encuentro Internacional de Académicas Sin Fronteras.">
+  <meta name="description" content="I Seminario en Optimización Matemática Aplicada a la Gestión Empresarial.">
   <meta property="og:image" content='<?php echo IMAGES."imagen20.jpg" ?>'>
 
   <!-- Fonts -->
